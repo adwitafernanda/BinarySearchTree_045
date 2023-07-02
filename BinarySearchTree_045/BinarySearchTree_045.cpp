@@ -115,5 +115,5 @@ public:
 			postorder(ptr->rightchild);
 			cout << ptr->info << "  ";
 		}
-	}
+	} 
 };
