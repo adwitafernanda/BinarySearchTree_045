@@ -99,4 +99,4 @@ public:
 			preorder(ptr->leftchild);
 			preorder(ptr->rightchild);
 		}
-	}
+	} 
