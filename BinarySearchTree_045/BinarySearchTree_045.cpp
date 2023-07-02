@@ -117,3 +117,17 @@ public:
 		}
 	} 
 };
+
+int main()
+{
+	BinaryTree obj;
+	while (true)
+	{
+		cout << "\nMENU" << endl;
+		cout << "1. Implement insert operation" << endl;
+		cout << "2. Perform inorder traversal" << endl;
+		cout << "3. Perform preorder traversal" << endl;
+		cout << "4. Perform postorder traversal" << endl;
+		cout << "5.Exit" << endl;
+		cout << "\nEnter Your Choice(1-5) : ";
+
